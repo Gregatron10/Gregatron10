@@ -1,7 +1,7 @@
 ### Hello Hello! 👋
 
 #Insta: @Gregatron10
-LinkedIn: 
+#LinkedIn: linkedin.com/in/greg-burns-361aa7139
 
 <!--
 **Gregatron10/Gregatron10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
