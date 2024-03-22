@@ -1,6 +1,7 @@
 ### Hello Hello! 👋
 
-#Insta: @Gregatron10
+#Insta: @Gregatron10 
+
 #LinkedIn: linkedin.com/in/greg-burns-361aa7139
 
 <!--
